@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\bin\Debug\arduino_gui_v1.exe.config
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\bin\Debug\arduino_gui_v1.exe
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\bin\Debug\arduino_gui_v1.pdb
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.Form1.resources
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.Properties.Resources.resources
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.exe
+C:\Users\HP\source\repos\arduino_gui_v1\arduino_gui_v1\obj\Debug\arduino_gui_v1.pdb
